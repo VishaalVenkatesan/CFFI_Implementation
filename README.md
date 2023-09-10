@@ -1,2 +1,2 @@
 # Ctypes
-My implementation of ctypes to use C libraries in Python.
+My implementation of CFFI to use C libraries in Python.
